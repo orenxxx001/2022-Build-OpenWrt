@@ -37,4 +37,3 @@ sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' ./feeds/luci/collections/luci
 
 # 删除软件包
 rm -rf package/lean/luci-theme-argon
-
